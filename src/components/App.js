@@ -1,8 +1,5 @@
 import * as React from 'react';
-import {
-  Route,
-  Routes,
-} from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 import Books from '../routes/Books';
 import Categories from '../routes/Categories';
 import Layout from './Layout';
