@@ -66,7 +66,7 @@ The list is saved in local storage so that a user can refer to this list later.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- The Live Demo will be added after completing next projects for this app.
+<a href="https://book-store-refactor.onrender.com/">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
